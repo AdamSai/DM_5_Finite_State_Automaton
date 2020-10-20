@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\bin\Debug\netcoreapp3.1\LogFiniteStateAutomaton.exe
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\bin\Debug\netcoreapp3.1\LogFiniteStateAutomaton.deps.json
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\bin\Debug\netcoreapp3.1\LogFiniteStateAutomaton.runtimeconfig.json
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\bin\Debug\netcoreapp3.1\LogFiniteStateAutomaton.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\bin\Debug\netcoreapp3.1\LogFiniteStateAutomaton.dll
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\bin\Debug\netcoreapp3.1\LogFiniteStateAutomaton.pdb
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.AssemblyInfo.cs
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.dll
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.pdb
+C:\Users\Adam\source\repos\LogFiniteStateAutomaton\LogFiniteStateAutomaton\obj\Debug\netcoreapp3.1\LogFiniteStateAutomaton.genruntimeconfig.cache
